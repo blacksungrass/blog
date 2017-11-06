@@ -8,7 +8,7 @@ description: every day leads to a change
 #   Google search results) and in your feed.xml site description.
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blacksungrass.github.io/blog/" # the base hostname & protocol for your site
+url: "http://blacksungrass.github.io/blog" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  blacksungrass
 permalink: /:year/:month/:day/:title/
